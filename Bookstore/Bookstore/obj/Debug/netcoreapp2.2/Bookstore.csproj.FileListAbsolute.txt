@@ -1,0 +1,28 @@
+C:\Users\software team\Desktop\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.deps.json
+C:\Users\software team\Desktop\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.runtimeconfig.json
+C:\Users\software team\Desktop\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.runtimeconfig.dev.json
+C:\Users\software team\Desktop\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.dll
+C:\Users\software team\Desktop\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.pdb
+C:\Users\software team\Desktop\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.csproj.CoreCompileInputs.cache
+C:\Users\software team\Desktop\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.RazorAssemblyInfo.cache
+C:\Users\software team\Desktop\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.RazorAssemblyInfo.cs
+C:\Users\software team\Desktop\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.AssemblyInfoInputs.cache
+C:\Users\software team\Desktop\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.AssemblyInfo.cs
+C:\Users\software team\Desktop\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.RazorTargetAssemblyInfo.cache
+C:\Users\software team\Desktop\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.dll
+C:\Users\software team\Desktop\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.pdb
+C:\Users\software team\Desktop\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.csprojAssemblyReference.cache
+E:\Work\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.deps.json
+E:\Work\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.runtimeconfig.json
+E:\Work\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.runtimeconfig.dev.json
+E:\Work\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.dll
+E:\Work\Bookstore\Bookstore\bin\Debug\netcoreapp2.2\Bookstore.pdb
+E:\Work\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.csprojAssemblyReference.cache
+E:\Work\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.csproj.CoreCompileInputs.cache
+E:\Work\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.RazorAssemblyInfo.cache
+E:\Work\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.RazorAssemblyInfo.cs
+E:\Work\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.AssemblyInfoInputs.cache
+E:\Work\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.AssemblyInfo.cs
+E:\Work\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.RazorTargetAssemblyInfo.cache
+E:\Work\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.dll
+E:\Work\Bookstore\Bookstore\obj\Debug\netcoreapp2.2\Bookstore.pdb
