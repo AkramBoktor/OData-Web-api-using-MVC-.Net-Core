@@ -1,1 +1,1 @@
-# OData Web api usong MVC .Net Core
+# OData Web api using MVC .Net Core
